@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dániel</h1>
-<h3 align="center">A passionate student eager to learn.</h3>
+<h3 align="center"><i>A passionate student eager to learn.</i></h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szrdni&label=Profile%20views&color=0e75b6&style=flat" alt="szrkdni" /> </p>
