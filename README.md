@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Szarka Dániel</h1>
+<h1 align="center">Hi 👋, I'm Dániel</h1>
 <h3 align="center">A passionate student eager to learn.</h3>
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+passionate+student+eager+to+learn.;Second+line+of+text)](https://git.io/typing-svg)
 
+
+#About me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szrdni&label=Profile%20views&color=0e75b6&style=flat" alt="szrkdni" /> </p>
 
 <h3 align="left">Connect with me:</h3>
