@@ -8,6 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=2CAFF7&background=FF000000&multiline=true&repeat=false&width=600&height=100&lines=Pursuing+a+degree+in+Software+Engineering+%F0%9F%8E%93;Focusing+on+DevOps+%F0%9F%92%A1;Exploring+Open+source+projects+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
+[![WallP](https://minimalistic-wallpaper.demolab.com/?random)]
 
 
 <h3 align="left">Connect with me:</h3>
