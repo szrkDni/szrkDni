@@ -1,3 +1,5 @@
+<img src="https://minimalistic-wallpaper.demolab.com/?random" position="absolute">
+
 <h1 align="center">Hi 👋, I'm Dániel</h1>
 <h3 align="center"><i>A passionate student eager to learn.</i></h3>
 
