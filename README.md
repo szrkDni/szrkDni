@@ -20,10 +20,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szrkDni&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h2>💻 Tech Stack:</h2>
-
-<h2 align="left">✍️ Random Dev Quote:</h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
